@@ -15,9 +15,19 @@ namespace BakeryApp.Pages
     {
         private readonly ILogger<IndexModel> _logger;
 
-        public IndexModel(ILogger<IndexModel> logger)
+        /*public IndexModel(ILogger<IndexModel> logger)
         {
             _logger = logger;
-        }       
+        }*/
+
+        private readonly BakeryContext db;
+        public IndexModel(BakeryContext db) => this.db = db;
+        public List<Product> Products { get; set; } = new List<Product>();
+        public Product FeaturedProduct { get; set; }
+        public async Task OnGetAsync()
+        {
+            Products = await db.Products.ToListAsync();
+            FeaturedProduct = Products.ElementAt(new Random().Next(Products.Count));
+        }
     }
 }
