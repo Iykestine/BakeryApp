@@ -379,3 +379,5 @@ C:\Users\User\Desktop\CodeCademy\Codecademy Projects\BakeryApp\obj\Debug\net5.0\
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\BakeryApp\obj\Debug\net5.0\ref\BakeryApp.dll
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\BakeryApp\obj\Debug\net5.0\BakeryApp.pdb
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\BakeryApp\obj\Debug\net5.0\BakeryApp.genruntimeconfig.cache
+C:\Users\User\Desktop\CodeCademy\Codecademy Projects\BakeryApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Desktop\CodeCademy\Codecademy Projects\BakeryApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
