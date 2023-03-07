@@ -382,3 +382,4 @@ C:\Users\User\Desktop\CodeCademy\Codecademy Projects\BakeryApp\obj\Debug\net5.0\
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\BakeryApp\bin\Debug\net5.0\Humanizer.dll
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\BakeryApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\User\Desktop\CodeCademy\Codecademy Projects\BakeryApp\obj\Debug\net5.0\Razor\Pages\Order.cshtml.g.cs
+C:\Users\User\Desktop\CodeCademy\Codecademy Projects\BakeryApp\obj\Debug\net5.0\Razor\Pages\OrderSuccess.cshtml.g.cs
